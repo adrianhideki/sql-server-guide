@@ -1,6 +1,6 @@
 # SQL Server Guide
 
-In this repository i will explain somethings about the **SQL Server**, like hints and tricks to work with this powerfull database. Think in this repository like a **book** and each folder as a chapter, if you find any error, please [warn me](mailto:adrian.hideki.br@gmail.com) to resolve the issue.
+In this repository i will explain somethings about the **SQL Server**, like hints and tricks to work with this powerfull database. Think in this repository like a **book** and each folder as a chapter, if you find any error, please [warn me](mailto:adrian.hideki.br@gmail.com).
 
 ## 1. Working with T-SQL
   In this chapter we will find some concepts of **SQL Standard** and what is the **T-SQL** (Transact SQL), involving the basics commands used in any relational database. 
